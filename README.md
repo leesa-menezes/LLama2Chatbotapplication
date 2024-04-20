@@ -10,4 +10,4 @@ pinned: false
 ---
 
 # LLama2Chatbotapplication
-Hugging Face Spaces deployment of a streamlit python application
+Streamlit python application
