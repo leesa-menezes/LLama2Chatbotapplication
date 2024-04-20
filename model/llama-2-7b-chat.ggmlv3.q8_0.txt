@@ -1,0 +1,5 @@
+Please download the model from the below URL in the model folder before runnning the application.
+
+URL: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+
+Model used for this chatbot application: llama-2-7b-chat.ggmlv3.q8_0.bin
